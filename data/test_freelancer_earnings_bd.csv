@@ -1,0 +1,15 @@
+Freelancer_ID,Job_Category,Platform,Experience_Level,Client_Region,Payment_Method,Job_Completed,Earnings_USD,Hourly_Rate,Job_Success_Rate,Client_Rating,Job_Duration_Days,Project_Type,Rehire_Rate,Marketing_Spend
+4,Data Entry,PeoplePerHour,Intermediate,Asia,Bank Transfer,17,5577,14.37,79.93,4.47,41,Hourly,27.58,67
+5,Digital Marketing,Upwork,Expert,Asia,Crypto,245,5898,99.37,57.8,5.0,41,Hourly,69.09,489
+6,Customer Support,Toptal,Beginner,Europe,Crypto,280,6867,43.04,57.8,4.87,8,Fixed,43.88,290
+7,Web Development,Fiverr,Beginner,USA,Crypto,96,1677,20.5,52.9,4.29,32,Hourly,45.99,343
+8,Data Entry,Toptal,Beginner,Australia,Bank Transfer,112,6193,82.15,93.31,3.84,30,Fixed,31.59,168
+9,Content Writing,Toptal,Intermediate,USA,Crypto,233,8446,26.44,80.06,4.27,46,Fixed,50.11,396
+10,Data Entry,PeoplePerHour,Beginner,Middle East,Mobile Banking,156,6608,54.99,85.4,4.57,52,Hourly,32.76,160
+11,App Development,Fiverr,Beginner,Australia,Crypto,112,5322,17.16,51.03,3.24,89,Fixed,12.75,14
+12,Customer Support,Toptal,Intermediate,Australia,Mobile Banking,293,7931,50.09,98.5,3.82,61,Fixed,29.04,190
+13,Customer Support,Fiverr,Intermediate,Europe,Mobile Banking,180,9033,58.02,91.62,4.68,13,Fixed,10.45,14
+14,Data Entry,Freelancer,Beginner,Canada,Bank Transfer,290,3797,47.36,60.62,3.77,89,Hourly,78.48,286
+15,App Development,Freelancer,Beginner,UK,Crypto,245,9347,11.6,59.09,4.14,40,Hourly,77.6,362
+16,Data Entry,Freelancer,Intermediate,UK,Bank Transfer,149,9332,51.07,59.17,4.18,61,Hourly,37.66,411
+17,Customer Support,Toptal,Expert,UK,Mobile Banking,18,1657,49.55,65.21,3.37,44,Hourly,60.99,9 
